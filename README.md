@@ -15,7 +15,7 @@
 ## План работ
 -1. Подумать над тем, чтобы переписать всё на Java для platform independency.  
 0. Поискать другие аналоги своей игры (~~узнать зарубежное название игры~~ **Jeopardy!** [(полный список)](https://ru.wikipedia.org/wiki/Jeopardy!#%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8_%D0%B8%D0%B3%D1%80%D1%8B) и проверить на наличие необходимого софта)  
-1. Отформатировать код (Tab -> 4 spaces) (пишем по [Microsoft C# Coding Conventions](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/inside-a-program/coding-conventions))
+1. ~~Отформатировать код (Tab -> 4 spaces)~~ (пишем по [Microsoft C# Coding Conventions](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/inside-a-program/coding-conventions))
 2. Скомпилировать хоть что-то
 3. Скомпилировать SIGame (видимо придётся написать кучу кода, т.к. исходник SIGame не выложен)
 4. Почекать чё там с нажатием кнопки (почему оно как-то странно работает?)
